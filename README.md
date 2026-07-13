@@ -7,7 +7,7 @@
 
 </div>
 
-Contiene el código para la reproducibilidad en Pyhton de mi tesis sobre la estimación del Modelo Probit binario con endogeneidad.
+Contiene el código para la reproducibilidad en Python de mi tesis sobre la estimación del Modelo Probit binario con endogeneidad.
 
 Incluye:
 
