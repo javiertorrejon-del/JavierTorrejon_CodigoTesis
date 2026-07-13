@@ -9,20 +9,20 @@
 
 </div>
 
-Este notebook contiene el código desarrollado para la implementación computacional de la tesis sobre la estimación del **modelo Probit binario en presencia de endogeneidad**.
+Contiene el código para la reproducibilidad en Pyhton de mi tesis sobre la estimación del Modelo Probit binario con endogeneidad.
 
-El análisis incluye:
+Incluye:
 
 - Generación y simulación del proceso generador de datos.
-- Estimación del modelo **Probit sin corrección**.
-- Estimación mediante el método de **Función de Control**.
-- Implementación del estimador de **Variables Instrumentales basado en Momentos (MIV)**.
-- Cálculo de métricas de desempeño, incluyendo sesgo, varianza, error cuadrático medio y cobertura.
+- Estimación del modelo Probit sin corrección.
+- Estimación mediante el método de Función de Control.
+- Implementación del estimador de Variables Instrumentales basado en Momentos (MIV).
+- Cálculo de métricas de desempeño (Var, MSE).
 - Ejecución de simulaciones de Monte Carlo bajo diferentes escenarios.
-- Análisis de sensibilidad según el tamaño muestral, el grado de endogeneidad y la fuerza instrumental.
+- Análisis de sensibilidad según el tamaño muestral, el grado de endogeneidad y fuerza instrumental.
 - Aplicación empírica de los métodos de estimación.
-- Implementación de procedimientos de **bootstrap**.
-- Generación automatizada de tablas, resultados y figuras utilizadas en la tesis.
+- Implementación de procedimientos de bootstrap en prueba empírica.
+- Generación de tablas, resultados y figuras utilizadas en la tesis.
 
 ---
 
