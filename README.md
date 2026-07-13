@@ -3,8 +3,6 @@
 # Código de Tesis  
 ## Modelo Probit Binario con Endogeneidad
 
-### Simulación, estimación y evaluación de métodos de corrección
-
 ---
 
 </div>
